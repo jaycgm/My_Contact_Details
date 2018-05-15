@@ -1,0 +1,8 @@
+c:\users\jaychen\documents\visual studio 2010\Projects\My_Contact_Details\My_Contact_Details.Tests\bin\Debug\My_Contact_Details.Tests.dll.config
+c:\users\jaychen\documents\visual studio 2010\Projects\My_Contact_Details\My_Contact_Details.Tests\bin\Debug\My_Contact_Details.Tests.dll
+c:\users\jaychen\documents\visual studio 2010\Projects\My_Contact_Details\My_Contact_Details.Tests\bin\Debug\My_Contact_Details.Tests.pdb
+c:\users\jaychen\documents\visual studio 2010\Projects\My_Contact_Details\My_Contact_Details.Tests\bin\Debug\My_Contact_Details.dll
+c:\users\jaychen\documents\visual studio 2010\Projects\My_Contact_Details\My_Contact_Details.Tests\bin\Debug\My_Contact_Details.pdb
+c:\users\jaychen\documents\visual studio 2010\Projects\My_Contact_Details\My_Contact_Details.Tests\obj\Debug\My_Contact_Details.Tests.csprojResolveAssemblyReference.cache
+c:\users\jaychen\documents\visual studio 2010\Projects\My_Contact_Details\My_Contact_Details.Tests\obj\Debug\My_Contact_Details.Tests.dll
+c:\users\jaychen\documents\visual studio 2010\Projects\My_Contact_Details\My_Contact_Details.Tests\obj\Debug\My_Contact_Details.Tests.pdb

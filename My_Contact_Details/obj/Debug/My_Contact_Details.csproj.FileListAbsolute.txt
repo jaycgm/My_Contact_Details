@@ -1,0 +1,4 @@
+c:\users\jaychen\documents\visual studio 2010\Projects\My_Contact_Details\My_Contact_Details\bin\My_Contact_Details.dll
+c:\users\jaychen\documents\visual studio 2010\Projects\My_Contact_Details\My_Contact_Details\bin\My_Contact_Details.pdb
+c:\users\jaychen\documents\visual studio 2010\Projects\My_Contact_Details\My_Contact_Details\obj\Debug\My_Contact_Details.dll
+c:\users\jaychen\documents\visual studio 2010\Projects\My_Contact_Details\My_Contact_Details\obj\Debug\My_Contact_Details.pdb
